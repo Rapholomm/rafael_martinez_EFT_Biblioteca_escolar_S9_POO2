@@ -1,0 +1,31 @@
+1- 
+
+Validación: escribe abc en Stock, deja el Título vacío y presiona Registrar. Debe salir “El campo título es obligatorio”.
+
+
+
+
+2 - Registro
+
+Registrar un libro válido:
+Título: El Hobbit
+Autor: J. R. R. Tolkien
+ISBN: 9780547928227
+Editorial: Minotauro
+Stock: 4
+Categoría: Literatura
+Presiona Registrar. Aparece como el libro 11 en la tabla.
+
+
+3 - 
+
+Editar: haz clic en la fila de El Hobbit (el formulario se llena solo), cambia el stock a 6 y presiona Editar.
+
+
+
+estudiante
+Ingresa con carlos@correo.cl y clave123. 
+
+o 
+bibliotecaria
+antonia@correo.cl y clave123.
